@@ -1,0 +1,46 @@
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\MicDAC\Software\MicDAC_Software\WindowsFormsApplication2\bin\Debug\MicDAC.exe.config
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\MicDAC\Software\MicDAC_Software\WindowsFormsApplication2\obj\Debug\MicDAC.csprojResolveAssemblyReference.cache
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\MicDAC\Software\MicDAC_Software\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.MainForm.resources
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\MicDAC\Software\MicDAC_Software\WindowsFormsApplication2\obj\Debug\MicDAC.Properties.Resources.resources
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\MicDAC\Software\MicDAC_Software\WindowsFormsApplication2\obj\Debug\MicDAC.csproj.GenerateResource.Cache
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\MicDAC\Software\MicDAC_Software\WindowsFormsApplication2\bin\Debug\MicDAC.exe
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\MicDAC\Software\MicDAC_Software\WindowsFormsApplication2\bin\Debug\MicDAC.pdb
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\MicDAC\Software\MicDAC_Software\WindowsFormsApplication2\obj\Debug\MicDAC.exe
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\MicDAC\Software\MicDAC_Software\WindowsFormsApplication2\obj\Debug\MicDAC.pdb
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\MicDAC\Software\MicDAC_Software\MicDAC\bin\Debug\MicDAC.exe.config
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\MicDAC\Software\MicDAC_Software\MicDAC\obj\Debug\MicDAC.exe
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\MicDAC\Software\MicDAC_Software\MicDAC\obj\Debug\MicDAC.pdb
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\MicDAC\Geoscientific Instrumentation, Methods and Data Systems\MicDAC\MicDAC\MicDAC_Software\MicDAC\obj\Debug\WindowsFormsApplication2.MainForm.resources
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\MicDAC\Geoscientific Instrumentation, Methods and Data Systems\MicDAC\MicDAC\MicDAC_Software\MicDAC\obj\Debug\MicDAC.Properties.Resources.resources
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\MicDAC\Geoscientific Instrumentation, Methods and Data Systems\MicDAC\MicDAC\MicDAC_Software\MicDAC\obj\Debug\MicDAC.csproj.GenerateResource.Cache
+D:\MicDAC_Software\MicDAC\bin\Debug\MicDAC.exe.config
+D:\MicDAC_Software\MicDAC\bin\Debug\MicDAC.exe
+D:\MicDAC_Software\MicDAC\bin\Debug\MicDAC.pdb
+D:\MicDAC_Software\MicDAC\obj\Debug\MicDAC.csprojResolveAssemblyReference.cache
+D:\MicDAC_Software\MicDAC\obj\Debug\MicDAC.Properties.Resources.resources
+D:\MicDAC_Software\MicDAC\obj\Debug\MicDAC.csproj.GenerateResource.Cache
+D:\MicDAC_Software\MicDAC\obj\Debug\MicDAC.exe
+D:\MicDAC_Software\MicDAC\obj\Debug\MicDAC.pdb
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\MicDAC\Geoscientific Instrumentation, Methods and Data Systems\MicDAC\MicDAC\MicDAC_Software\MicDAC\bin\Debug\MicDAC.exe.config
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\MicDAC\Geoscientific Instrumentation, Methods and Data Systems\MicDAC\MicDAC\MicDAC_Software\MicDAC\obj\Debug\MicDAC.exe
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\MicDAC\Geoscientific Instrumentation, Methods and Data Systems\MicDAC\MicDAC\MicDAC_Software\MicDAC\obj\Debug\MicDAC.pdb
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\MicDAC\Geoscientific Instrumentation, Methods and Data Systems\MicDAC\MicDAC\MicDAC_Software\MicDAC\obj\Debug\MicDAC.csprojResolveAssemblyReference.cache
+D:\MicDAC_Software\MicDAC\obj\Debug\MicDAC.MainForm.resources
+D:\MicDAC_Software -2\MicDAC\bin\Debug\MicDAC.exe.config
+D:\MicDAC_Software -2\MicDAC\bin\Debug\MicDAC.exe
+D:\MicDAC_Software -2\MicDAC\bin\Debug\MicDAC.pdb
+D:\MicDAC_Software -2\MicDAC\obj\Debug\MicDAC.MainForm.resources
+D:\MicDAC_Software -2\MicDAC\obj\Debug\MicDAC.Properties.Resources.resources
+D:\MicDAC_Software -2\MicDAC\obj\Debug\MicDAC.csproj.GenerateResource.Cache
+D:\MicDAC_Software -2\MicDAC\obj\Debug\MicDAC.exe
+D:\MicDAC_Software -2\MicDAC\obj\Debug\MicDAC.pdb
+D:\MicDAC_Software -2\MicDAC\obj\Debug\MicDAC.csprojResolveAssemblyReference.cache
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\MicDAC\IEEE_Transaction_On_Instrumentation_And_Measurement\MicDAC\MicDAC\MicDAC_Software\MicDAC\bin\Debug\MicDAC.exe.config
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\MicDAC\IEEE_Transaction_On_Instrumentation_And_Measurement\MicDAC\MicDAC\MicDAC_Software\MicDAC\obj\Debug\MicDAC.exe
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\MicDAC\IEEE_Transaction_On_Instrumentation_And_Measurement\MicDAC\MicDAC\MicDAC_Software\MicDAC\obj\Debug\MicDAC.pdb
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\MicDAC\IEEE_Transaction_On_Instrumentation_And_Measurement\MicDAC\MicDAC\MicDAC_Software\MicDAC\bin\Debug\MicDAC.exe
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\MicDAC\IEEE_Transaction_On_Instrumentation_And_Measurement\MicDAC\MicDAC\MicDAC_Software\MicDAC\bin\Debug\MicDAC.pdb
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\MicDAC\IEEE_Transaction_On_Instrumentation_And_Measurement\MicDAC\MicDAC\MicDAC_Software\MicDAC\obj\Debug\MicDAC.csprojResolveAssemblyReference.cache
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\MicDAC\IEEE_Transaction_On_Instrumentation_And_Measurement\MicDAC\MicDAC\MicDAC_Software\MicDAC\obj\Debug\MicDAC.MainForm.resources
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\MicDAC\IEEE_Transaction_On_Instrumentation_And_Measurement\MicDAC\MicDAC\MicDAC_Software\MicDAC\obj\Debug\MicDAC.Properties.Resources.resources
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\MicDAC\IEEE_Transaction_On_Instrumentation_And_Measurement\MicDAC\MicDAC\MicDAC_Software\MicDAC\obj\Debug\MicDAC.csproj.GenerateResource.Cache

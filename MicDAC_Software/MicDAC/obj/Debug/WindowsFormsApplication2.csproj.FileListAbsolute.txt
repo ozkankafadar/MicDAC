@@ -1,0 +1,9 @@
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\A computer-aided using Arduino board\Software\MDRA_v1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\A computer-aided using Arduino board\Software\MDRA_v1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\A computer-aided using Arduino board\Software\MDRA_v1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\A computer-aided using Arduino board\Software\MDRA_v1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\A computer-aided using Arduino board\Software\MDRA_v1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\A computer-aided using Arduino board\Software\MDRA_v1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\A computer-aided using Arduino board\Software\MDRA_v1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\A computer-aided using Arduino board\Software\MDRA_v1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\DISK_EDITED\Private\Bilimsel Çalışmalarım\Tamamlanmamış çalışmalarım\A computer-aided using Arduino board\Software\MDRA_v1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
