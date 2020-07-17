@@ -1,2 +1,2 @@
 # MicDAC
-A low-cost and three-channel, computer-aided microtremor recording and analysis system
+A low-cost and three-channel, computer-aided microtremor measurement and analysis system
