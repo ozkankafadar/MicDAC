@@ -223,7 +223,8 @@ namespace MicDAC
                 if (cnt >= (delayTime_nup.Value * 200))
                 {
                     string[] d = data.Split('*');
-                    sw.WriteLine(d[0] + "\t" + d[1] + "\t" + d[2]);
+                    if(d.Length>2)
+                        sw.WriteLine(d[0] + "\t" + d[1] + "\t" + d[2]);
                 }
 
                 if (cnt >= (time_Nud.Value * 60 * 1000 / 5 + delayTime_nup.Value * 200))
@@ -1529,7 +1530,7 @@ namespace MicDAC
                     HV_Chart.Series.Add(newSeries);
                     for (int i = 0; i < HV.GetLength(1); i++)
                     {
-                        if (f1[i] >= 0.1)
+                        if (f1[i] >= 0.1 && f1[i]<=20)
                             newSeries.Points.AddXY(f1[i], HV[dim, i]);
                     }
                 }
@@ -1614,7 +1615,7 @@ namespace MicDAC
             HV_Chart.Series.Add(newSeries2);
             for (int i = 0; i < HV_Avg.Length; i++)
             {
-                if (f1[i] >= 0.1)
+                if (f1[i] >= 0.1 && f1[i] <= 20)
                     newSeries2.Points.AddXY(f1[i], HV_Avg[i]);
             }
             
@@ -1659,7 +1660,7 @@ namespace MicDAC
             int j = 0;
             for (int i = 0; i < HV_Avg.Length; i++)
             {
-                if (f1[i] >= 0.1)
+                if (f1[i] >= 0.1 && f1[i] <= 20)
                 {
                     dataGridView1.Rows.Add();
                     dataGridView1.Rows[j].Cells[0].Value = f1[i];
@@ -1824,10 +1825,10 @@ namespace MicDAC
                     sw.WriteLine("Longitude:\t" + longitude_tx.Text);
                     sw.WriteLine("Description:\t" + description_tx.Text);
                     sw.Close();
-                }
-                
+                }               
+               
                 coordPanel.Visible = false;
-        }
+        }      
 
         private void saveCANCEL_btn_Click(object sender, EventArgs e)
         {
